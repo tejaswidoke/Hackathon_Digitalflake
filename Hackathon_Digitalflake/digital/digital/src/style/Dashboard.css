@@ -1,0 +1,11 @@
+/* src/Dashboard.css */
+.dashboard {
+    display: flex;
+}
+
+.content {
+    margin-left: 200px;
+    /* Same as the sidebar width */
+    padding: 20px;
+    flex: 1;
+}

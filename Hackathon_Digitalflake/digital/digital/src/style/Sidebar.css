@@ -1,0 +1,24 @@
+/* src/Sidebar.css */
+.sidebar {
+    height: 100vh;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #343a40;
+    padding-top: 20px;
+}
+
+.sidebar .nav-link {
+    color: rgb(11, 11, 11);
+}
+
+.sidebar .nav-link:hover {
+    background-color: #495057;
+}
+
+.margin-top {
+    margin-top: 65px;
+    background-color: #F4F4F4;
+
+}
